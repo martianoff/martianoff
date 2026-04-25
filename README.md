@@ -4,6 +4,12 @@ Software Engineer in Security at Snowflake | Ex-Twitter, Route4Me, and others
 
 Currently building **GALA** -- a functional programming language that transpiles to Go.
 
+## Links
+
+- Blog: [martianov.dev](https://martianov.dev)
+- GALA: [gala.fyi](https://gala.fyi)
+- Playground: [gala-playground.fly.dev](https://gala-playground.fly.dev)
+
 ## My Projects
 
 | Project | Description |
@@ -15,7 +21,12 @@ Currently building **GALA** -- a functional programming language that transpiles
 
 ## Blog
 
+- [Splitting the Brain: Plugin vs LSP](https://martianov.dev/splitting-the-brain-plugin-vs-lsp)
+- [Dot Completion Without a Type Checker](https://martianov.dev/dot-completion-without-a-type-checker)
+- [The Type Information Problem](https://martianov.dev/lsp-type-information-problem)
 - [The State of GALA: March 2026](https://martianov.dev/state-of-gala-march-2026)
 - [22x Faster Builds: Inside GALA's Compilation Performance Journey](https://martianov.dev/22x-faster-builds-gala-compilation-performance)
 - [Building a Reliable Transpiler: Lessons from 80+ Bug Fixes](https://martianov.dev/building-reliable-transpiler-80-bug-fixes)
+- [samber/lo Has 21K Stars. Here's What It Would Look Like as a Language Feature](https://martianov.dev/samber-lo-has-21k-stars-here-s-what-it-would-look-like-as-a-language-feature)
+- [Library vs Language: Two Approaches to Functional Programming in Go](https://martianov.dev/library-vs-language-two-approaches-to-functional-programming-in-go)
 - [Pattern Matching in Go: Sealed Types and Exhaustive Matching for the Go Ecosystem](https://martianov.dev/pattern-matching-in-go-how-gala-brings-sealed-types-and-exhaustive-matching-to-the-go-ecosystem)
