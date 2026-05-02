@@ -18,6 +18,7 @@ Currently building **GALA** -- a functional programming language that transpiles
 | [**gala-playground**](https://github.com/martianoff/gala-playground) | Web-based GALA editor with live transpilation. Try it at [gala-playground.fly.dev](https://gala-playground.fly.dev). |
 | [**gala-server**](https://github.com/martianoff/gala-server) | Immutable HTTP server library -- 35+ composable filters, builder pattern, zero-reflection JSON. |
 | [**gala-tui**](https://github.com/martianoff/gala-tui) | Functional, Elm-architecture TUI framework written in GALA -- immutable widgets, differential renderer, async runtime, mouse, markdown, themes. |
+| [**gala-team**](https://github.com/martianoff/gala-team) | Multi-agent Claude CLI orchestrator -- a Team Lead delegates to Engineers and QAs, reviews work, hands you a PR for sign-off. Written in GALA with gala_tui. |
 
 ## Blog
 
