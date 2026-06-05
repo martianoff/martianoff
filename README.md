@@ -14,15 +14,17 @@ Currently building **GALA** -- a functional programming language that transpiles
 
 | Project | Description |
 |---------|-------------|
-| [**gala**](https://github.com/martianoff/gala) | GALA programming language -- sealed types, pattern matching, generics, type inference. 46 releases, 216 tests. |
+| [**gala**](https://github.com/martianoff/gala) | GALA programming language -- sealed types, pattern matching, generics, type inference. 105 releases, 346 tests. |
 | [**rules-gala**](https://github.com/martianoff/rules-gala) | Bazel rules, a bzlmod extension, and a gazelle plugin for building, testing, and transpiling GALA -- also a Bazel module registry that publishes `rules_gala`. |
-| [**gala-playground**](https://github.com/martianoff/gala-playground) | Web-based GALA editor with live transpilation. Try it at [gala-playground.fly.dev](https://gala-playground.fly.dev). |
-| [**gala-server**](https://github.com/martianoff/gala-server) | Immutable HTTP server library -- 35+ composable filters, builder pattern, zero-reflection JSON. |
+| [**gala-playground**](https://github.com/martianoff/gala-playground) | Web-based GALA editor with live transpilation -- 15 built-in examples, instant compilation, error display. Try it at [gala-playground.fly.dev](https://gala-playground.fly.dev). |
+| [**gala-server**](https://github.com/martianoff/gala-server) | Immutable HTTP server library -- builder pattern, 35+ composable filters (auth, CORS, rate limiting, circuit breaker), SSE, zero-reflection JSON, graceful shutdown. Inspired by Finagle + Echo. |
 | [**gala-tui**](https://github.com/martianoff/gala-tui) | Functional, Elm-architecture TUI framework written in GALA -- immutable widgets, differential renderer, async runtime, mouse, markdown, themes. |
 | [**gala-team**](https://github.com/martianoff/gala-team) | Multi-agent Claude CLI orchestrator -- a Team Lead delegates to Engineers and QAs, reviews work, hands you a PR for sign-off. Written in GALA with gala_tui. |
 
 ## Blog
 
+- [Productionizing the GALA Build Stack: rules_gala, a Real Toolchain, and Gazelle](https://martianov.dev/productionizing-the-gala-build-stack-rules-gala-toolchain-gazelle)
+- [The State of GALA: May 2026](https://martianov.dev/state-of-gala-may-2026)
 - [Splitting the Brain: Plugin vs LSP](https://martianov.dev/splitting-the-brain-plugin-vs-lsp)
 - [Dot Completion Without a Type Checker](https://martianov.dev/dot-completion-without-a-type-checker)
 - [The Type Information Problem](https://martianov.dev/lsp-type-information-problem)
