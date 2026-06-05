@@ -15,6 +15,7 @@ Currently building **GALA** -- a functional programming language that transpiles
 | Project | Description |
 |---------|-------------|
 | [**gala**](https://github.com/martianoff/gala) | GALA programming language -- sealed types, pattern matching, generics, type inference. 46 releases, 216 tests. |
+| [**rules-gala**](https://github.com/martianoff/rules-gala) | Bazel rules, a bzlmod extension, and a gazelle plugin for building, testing, and transpiling GALA -- also a Bazel module registry that publishes `rules_gala`. |
 | [**gala-playground**](https://github.com/martianoff/gala-playground) | Web-based GALA editor with live transpilation. Try it at [gala-playground.fly.dev](https://gala-playground.fly.dev). |
 | [**gala-server**](https://github.com/martianoff/gala-server) | Immutable HTTP server library -- 35+ composable filters, builder pattern, zero-reflection JSON. |
 | [**gala-tui**](https://github.com/martianoff/gala-tui) | Functional, Elm-architecture TUI framework written in GALA -- immutable widgets, differential renderer, async runtime, mouse, markdown, themes. |
