@@ -20,6 +20,7 @@ Currently building **GALA** -- a functional programming language that transpiles
 | [**gala-server**](https://github.com/martianoff/gala-server) | Immutable HTTP server library -- builder pattern, 35+ composable filters (auth, CORS, rate limiting, circuit breaker), SSE, zero-reflection JSON, graceful shutdown. Inspired by Finagle + Echo. |
 | [**gala-tui**](https://github.com/martianoff/gala-tui) | Functional, Elm-architecture TUI framework written in GALA -- immutable widgets, differential renderer, async runtime, mouse, markdown, themes. |
 | [**gala-team**](https://github.com/martianoff/gala-team) | Multi-agent Claude CLI orchestrator -- a Team Lead delegates to Engineers and QAs, reviews work, hands you a PR for sign-off. Written in GALA with gala_tui. |
+| [**gala-assimilator**](https://github.com/martianoff/gala-assimilator) 🚧 | **Under construction.** Terminal UI that migrates a codebase between languages by orchestrating AI agents in a translate -> verify -> fix loop, per file, until 100% migrated. Semantics-preserving: a unit is Done only when its 1:1 source tests pass. First pair: Go -> GALA. Written in GALA with gala_tui. |
 
 ## Blog
 
